@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+685ee1bd2ace4cbe05ea9fa84806c170 CMakeFiles/openmusic_autogen
+cb201f7221217d2c990aaa0d75077464 openmusic_autogen/timestamp
