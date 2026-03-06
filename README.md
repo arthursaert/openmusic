@@ -11,7 +11,7 @@ O OpenMusic já é pré-compilado por padrão para Linux, mas se quiser compilar
 ### 1
 Clonar repositório Git na pasta que você quiser
 ```bash
-mkdir openpdf && cd openpdf
+mkdir openmusic && cd openmusic
 ```
 ```bash
 git clone https://github.com/arthursaert/openmusic.git
@@ -25,7 +25,7 @@ cmake .. -DCMAKE_BUILD_TYPE=Release
 make -j$(nproc)
 ```
 
-> O OpenPDF é feito especialmente para Linux, pode ser preciso modificações para compilar para o Windows ou Mac. O OpenMusic está disponível sobre a licença Apache 2.0.
+> O OpenMusic é feito especialmente para Linux, pode ser preciso modificações para compilar para o Windows ou Mac. O OpenMusic está disponível sobre a licença Apache 2.0.
 
 **Haverá futuras atualizações para esse leitor**, espero que goste!
 
